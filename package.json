@@ -1,0 +1,19 @@
+{
+  "name": "hangman-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdouglas83/Hangman-Node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdouglas83/Hangman-Node/issues"
+  },
+  "homepage": "https://github.com/mdouglas83/Hangman-Node#readme"
+}
